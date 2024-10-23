@@ -47,7 +47,4 @@ This project combines advanced machine learning techniques to facilitate image c
 - Click on the following link to access the running Gradio interface: [Access the Project](https://huggingface.co/spaces/1Noura/ImageGeneration)
 - Click on the following link to access the code with examples : [Access the Code](https://colab.research.google.com/drive/1kOyAqWbp5PnRfWbm7TTc0MqxxjhhE1sq#scrollTo=vsDIQIjc4oTi)
 
-## 🎥 Explainer Video
-
-You can view the video here: [Project Video](https://drive.google.com/file/d/1-In2QtjtPRVksFkC-0r78vLc-Z3P3hi_/view?usp=drivesdk)
      
